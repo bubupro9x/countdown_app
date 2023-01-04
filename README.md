@@ -1,4 +1,4 @@
-#Countdown Application
+Countdown Application
 
 Write a countdown application using Flutter.
 
