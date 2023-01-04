@@ -11,5 +11,5 @@ Required features:
 
 Note: Refer to the UI below and apply state management for bonus points.
 
-![image-20230104102631505](/Users/duymaid/Library/Application Support/typora-user-images/image-20230104102631505.png)
+<img width="212" alt="image" src="https://user-images.githubusercontent.com/33770357/210479743-1ed49486-104a-4b3b-81ec-9c3e8c9b94ec.png">
 
